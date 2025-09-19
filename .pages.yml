@@ -1,5 +1,5 @@
 media:
-  input: privat
+  input: private
   output: /
 content:
   - name: posts
